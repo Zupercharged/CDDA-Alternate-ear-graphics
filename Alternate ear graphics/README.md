@@ -6,7 +6,7 @@ Results may vary, you have been warned.
 
 
 ## Dependencies
-Requires [DeadPeopleTileset](https://github.com/SomeDeadGuy/UndeadPeopleTileset). 
+Requires [UndeadPeopleTileset](https://github.com/SomeDeadGuy/UndeadPeopleTileset). 
 The go to tileset for CDDA by this point and for good reason, its great!
 
 
