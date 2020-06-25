@@ -20,7 +20,9 @@ With v1.1 you now have a Texture folder with a selection of the mutation graphic
 
 To change the texture colours, follow these steps:
 > Open the /Alternate_ear_graphics/Textures folder, inside you will find a Hair_hue_index.png and a library of folders. If you're unsure which variant you are looking for, consult the Index. 
+
 > To replace the in game textures, first open the folder for the colour you want and then copy both .png files, return to /Alternate_ear_graphics and  replace the existing .png files here.
+
 > If open, restart the game. The changes should now have been applied!
 
 The graphics can be swapped at any time, and the changes will register once you restart the game. If the colour you chose didnt suit your characters hair colour, refer again to the Hair_hue_index.png to see if there isnt a colour category that better suits it.
