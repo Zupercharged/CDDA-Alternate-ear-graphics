@@ -32,6 +32,7 @@ The graphics can be swapped at any time, and the changes will register once you 
 v1.0 - Adds New mutation texures for Canine/ Lupine and Feline ears, as well as for the Fluffy tail mutation. Also adds recipies for ear mutation mimic hats for layering ontop of other headwear.
 
 v1.1 - Adds Repository of mutation textures with different colour pallets designed to match most hair colours.
+> v1.1.1 - Corrects all tail sprites Y offset to be one pixel lower.
 
 
 ## Issues
