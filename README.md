@@ -33,7 +33,7 @@ Whats that? you dont want to have to make a new world? You want to keep doing co
 
 > 2 - Find and open the mods.json file - Opening it in notepad will work, you should see a short list of names in "". 
 
-> 3 - Edit in the mod name - Just add another line at the top of the list and write '"alt_ear_gfx",' ATTENTION! that comma is important, every name except the last in the list should have one outside the "" or the game cant read it.
+> 3 - Edit in the mod name - Just add another line near the top of the list and write '"alt_ear_gfx",' ATTENTION! that comma is important, every name except the last in the list should have one outside the "" or the game cant read it.
 
 > 4 - Save the changes - Congratulations! If you did it right the mod should now be enabled for your current world.
 
