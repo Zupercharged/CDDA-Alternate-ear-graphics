@@ -17,9 +17,9 @@ So i neglected to consider people who arent used to installing mods, so i though
 
 > 4 - Locate your mod folder for CDDA - Find where you installed the game, if you used the launcher it will be installed in the launcher file, then follow the path 
 
-installation location/CDDA Game Launcher/cdda/data/mods 
+>     installation location/CDDA Game Launcher/cdda/data/mods 
 
-(if you didnt use the launcher follow the same path excuding the game laucher file).
+>     (if you didnt use the launcher follow the same path excuding the game laucher file).
 
 > 5 - Paste the mod file into the mods folder - Pretty simple, this mod will now be in the addon list for when you create a new world!
 
@@ -27,9 +27,9 @@ installation location/CDDA Game Launcher/cdda/data/mods
 Whats that? you dont want to have to make a new world? You want to keep doing cool things in your current one? Not to worry! Just follow these additional steps!
 > 1 - Locate your save file for CDDA - Specifically CDDA saves games by world so your finding the world file. Follow the path 
 
-Installation location/CDDA Game Launcher/cdda/save
+>     Installation location/CDDA Game Launcher/cdda/save
 
-Then open the file with the name of your current world.
+>     Then open the file with the name of your current world.
 
 > 2 - Find and open the mods.json file - Opening it in notepad will work, you should see a short list of names in "". 
 
