@@ -47,11 +47,11 @@ The ears arent covered properly by hats so make some of the cosmetic ears to lay
 With v1.1 you now have a Texture folder with a selection of the mutation graphics in a selection of colour pallets, which means you can now choose a colour which better matches your characters hair colour! 
 
 To change the texture colours, follow these steps:
-> Open the /Alternate_ear_graphics/Textures folder, inside you will find a Hair_hue_index.png and a library of folders. If you're unsure which variant you are looking for, consult the Index. 
+> 1 - Open the /Alternate_ear_graphics/Textures folder, inside you will find a Hair_hue_index.png and a library of folders sorted by colour and variant. If you're unsure which variant you are looking for, consult the Index. 
 
-> To replace the in game textures, first open the folder for the colour you want and then copy both .png files, return to /Alternate_ear_graphics and  replace the existing .png files here.
+> 2 - To replace the in game textures, first open the folder for the colour you want and then copy both .png files, return to /Alternate_ear_graphics and  replace the existing .png files here.
 
-> If open, restart the game. The changes should now have been applied!
+> 3 - If open, restart the game. The changes should now have been applied!
 
 The graphics can be swapped at any time, and the changes will register once you restart the game. If the colour you chose didnt suit your characters hair colour, refer again to the Hair_hue_index.png to see if there isnt a colour category that better suits it.
 
@@ -61,6 +61,8 @@ v1.0 - Adds New mutation texures for Canine/ Lupine and Feline ears, as well as 
 
 v1.1 - Adds Repository of mutation textures with different colour pallets designed to match most hair colours.
 > v1.1.1 - Corrects all tail sprites Y offset to be one pixel lower.
+
+> V1.1.2 - Added installation guides to the README.md .
 
 
 ## Issues
