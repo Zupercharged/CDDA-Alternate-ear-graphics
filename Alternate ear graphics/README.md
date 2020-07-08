@@ -67,3 +67,7 @@ v1.1 - Adds Repository of mutation textures with different colour pallets design
 
 ## Issues
 At the time of this writing, all the features in this mod are tested and work as intended. Lets hope that lasts!
+
+
+## Other mods
+CDDA Extra car graphics - Adds extra tile options for certain car parts to make them more customisable and detailed.
