@@ -64,6 +64,9 @@ v1.1 - Adds Repository of mutation textures with different colour pallets design
 
 > V1.1.2 - Added installation guides to the README.md .
 
+> V1.1.3 - Added ZERO_WEIGHT flag to cosmetic items.
+
 
 ## Issues
-At the time of this writing, all the features in this mod are tested and work as intended. Lets hope that lasts!
+IMPORTIANT NOTICE: All tileset replacement mods do not work for latest experimental builds, as per issue [45563](https://github.com/CleverRaven/Cataclysm-DDA/issues/45563).
+Cannot guarantee functionality past 0.E stable build until fix is implemented, I apologise for any inconvenience this may cause.
