@@ -70,4 +70,5 @@ v1.1 - Adds Repository of mutation textures with different colour pallets design
 ## Issues
 ~~IMPORTIANT NOTICE: All tileset replacement mods do not work for latest experimental builds, as per issue [45563](https://github.com/CleverRaven/Cataclysm-DDA/issues/45563).
 Cannot guarantee functionality past 0.E stable build until fix is implemented, I apologise for any inconvenience this may cause.~~
+
 Fixed as of pull [51080](https://github.com/CleverRaven/Cataclysm-DDA/pull/51080), I hope you continue to enjoy the mod!
