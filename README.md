@@ -4,7 +4,7 @@ FULL DISCLAIMER, I designed these alternate graphics for a particular character 
 
 
 ## Dependencies
-Requires [UndeadPeopleTileset](http://web.archive.org/web/20210722141805/https://github.com/SomeDeadGuy/UndeadPeopleTileset). UDP Tileset is no longer being distributed, Link is to last archive of its development github. Alternatively this mod will work with any other tileset that also uses MSX+ character sprites.
+Requires [UndeadPeopleTileset](https://github.com/chaosvolt/Cata-MSX-DeadPeopleTileset-Backup). UDP Tileset is no longer being distributed, Link is to last archive of its development github. Alternatively this mod will work with any other tileset that also uses MSX+ character sprites.
 
 ## Installation
 So i neglected to consider people who arent used to installing mods, so i thought id take the time to do a brief walkthrough of the process.
