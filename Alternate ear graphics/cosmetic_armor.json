@@ -14,8 +14,6 @@
     "symbol": "[",
     "color": "dark_gray",
     "covers": [  ],
-    "coverage": 0,
-    "encumbrance": 0,
     "material_thickness": 1,
     "qualities": [  ],
     "flags": [ "ZERO_WEIGHT" ]
@@ -35,8 +33,6 @@
     "symbol": "[",
     "color": "dark_gray",
     "covers": [  ],
-    "coverage": 0,
-    "encumbrance": 0,
     "material_thickness": 1,
     "qualities": [  ],
     "flags": [ "ZERO_WEIGHT" ]
@@ -56,8 +52,6 @@
     "symbol": "[",
     "color": "dark_gray",
     "covers": [  ],
-    "coverage": 0,
-    "encumbrance": 0,
     "material_thickness": 1,
     "qualities": [  ],
     "flags": [ "ZERO_WEIGHT" ]
